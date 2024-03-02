@@ -1,4 +1,4 @@
-# Introduction to Programming Lab
+# Introduction to Programming 
 
 Welcome to the Introduction to Programming Lab repository! This repository contains the work done during the Introduction to Programming Lab.
 
